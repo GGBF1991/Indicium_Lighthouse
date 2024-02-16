@@ -6,8 +6,6 @@ Este projeto é parte de um desafio proposto pela Indicium, no qual o objetivo �
 
 ## Instalação
 
-Para executar este projeto, é necessário ter o Python instalado. Recomenda-se a utilização de um ambiente virtual para isolar as dependências do projeto. 
-
 1. Clone o repositório do projeto para o seu ambiente local:
 
 git clone https://github.com/GGBF1991/Indicium_Lighthouse.git
